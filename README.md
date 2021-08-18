@@ -2,8 +2,18 @@
 
 ## TASK 1
 
+### Image display
+![](images\task-1-dispay.PNG)
+![](images\task1-code.PNG)
+
+### Live preview 
+
+[CLICK HERE]()
+
 ## TASK 2
 
 ![](images\overview.PNG)
 
-[Click here]() to view thrwe live preview
+### Live Preview
+
+[CLICK HERE]() 
