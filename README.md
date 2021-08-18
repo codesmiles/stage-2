@@ -3,12 +3,9 @@
 ## TASK 1
 
 ### Image display
+
 ![](images/task-1-dispay.PNG)
 ![](images/task1-code.PNG)
-
-### Live preview 
-
-[CLICK HERE]()
 
 ## TASK 2
 
@@ -16,4 +13,4 @@
 
 ### Live Preview
 
-[CLICK HERE]() 
+[CLICK HERE](https://task-2-theta.vercel.app/) 
