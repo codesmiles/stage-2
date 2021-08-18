@@ -121,8 +121,8 @@ li {
 .social-p{
   display:flex;
   justify-content:space-around;
+    text-align: center;
 }
-
 
 
 
@@ -138,6 +138,7 @@ footer ul{
 
 
 } 
+
 
 footer ul li{
   padding-bottom:0em;
