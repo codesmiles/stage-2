@@ -4,7 +4,7 @@
 
 ### Image display
 ![](images/task-1-dispay.PNG)
-![](images\task1-code.PNG)
+![](images/task1-code.PNG)
 
 ### Live preview 
 
@@ -12,7 +12,7 @@
 
 ## TASK 2
 
-![](images\overview.PNG)
+![](images/overview.PNG)
 
 ### Live Preview
 
