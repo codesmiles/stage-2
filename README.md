@@ -3,7 +3,7 @@
 ## TASK 1
 
 ### Image display
-![](images\task-1-dispay.PNG)
+![](images/task-1-dispay.PNG)
 ![](images\task1-code.PNG)
 
 ### Live preview 
